@@ -1,0 +1,8 @@
+{
+  "name": "PuppetDrop — 2D PNG Auto-Rig \u0026 Animator ProphetDice",
+  "description": "Upload any character PNG to automatically generate a 2D skeleton and mesh, pose body parts by dragging directly on the canvas, and create smooth animations with drag-and-drop keyframes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
